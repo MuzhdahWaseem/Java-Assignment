@@ -1,0 +1,88 @@
+
+/* th{
+    padding: 10px;
+}
+table{
+   margin-top: 10% !important;
+}
+td{
+    text-align: center;
+} */
+ /* body{
+    background-color: rgba(100, 237, 141, 0.685);
+}
+#counter{
+    width: 250px;
+    height: 200px;
+    margin-top: 20%;
+    border-radius: 50px;
+    border: 10px solid black;
+    background-color: rgba(13, 217, 253, 0.904);
+}
+#increase , #decrease{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    border: none;
+    background-color: #fff;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+#increase:hover , #decrease:hover{
+    background-color: black;
+    color: #fff;
+    font-style: italic;
+}
+#count{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 50px;
+} */
+.form{
+    /* background-color: rgba(11, 246, 246, 0.226); */
+    width: 35%;
+    /* height: 100% !important; */
+    margin-left: 25%;
+    padding: 10%;
+    text-align: center;
+    
+}
+#first , #last{
+    /* display: inline-block; */
+    /* margin-top: 5px; */
+    padding: 15px;
+    margin: 10px;
+    background-color: rgba(141, 132, 132, 0.109);
+    width: 35%;
+    font-family: sans-serif;
+    font-size: large;
+    border-radius: 10px;
+    border: none;
+}
+#email , #password , #c-pass{
+    padding: 15px;
+    margin: 10px ;
+    background-color: rgba(141, 132, 132, 0.109);
+    width: 80%;
+    font-family: sans-serif;
+    font-size: large;
+    border-radius: 10px;
+    border: none;
+}
+h2 , p{
+    font-family: sans-serif;
+}
+#btn{
+    padding: 10px;
+    border: none;
+    background-color: rgba(11, 246, 246, 0.507);
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 20%;
+    font-family: sans-serif;
+    font-size: large;
+    cursor: pointer;
+}
